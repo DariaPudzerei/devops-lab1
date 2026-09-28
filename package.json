@@ -1,0 +1,10 @@
+{
+  "name": "devops-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "html-validate index.html"
+  },
+  "devDependencies": {
+    "html-validate": "^9.0.0"
+  }
+}
